@@ -149,13 +149,6 @@ All data is publicly accessible as required.
 
 ---
 
-## 👨‍🎓 Author
-
-- **Name:** YOUR NAME  
-- **Student ID:** XXXXXXXX  
-- **Email:** your_email@post.bgu.ac.il  
-
----
 
 ## 📎 Notes
 
