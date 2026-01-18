@@ -157,4 +157,15 @@ This project was implemented without:
 - Caching of results
 - External search services
 
+
+## 📋 Project Requirements Compliance
+
+- ✔ Search engine implemented from scratch over the Wikipedia corpus
+- ✔ Inverted indexes stored on Google Cloud Storage
+- ✔ No external services used at query time
+- ✔ Average query execution time below 35 seconds
+- ✔ Multiple ranking versions evaluated
+- ✔ Quantitative and qualitative evaluation performed
+
+
 All retrieval and ranking logic is executed locally.
